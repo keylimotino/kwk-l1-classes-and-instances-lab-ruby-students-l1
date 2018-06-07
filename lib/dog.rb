@@ -10,7 +10,7 @@ class Dog
     @fido
   end
 
-  def snoopy(snoopy)
+  def snoopy=(snoopy)
     @snoopy = snoopy
   end
 
@@ -18,7 +18,7 @@ class Dog
     @snoopy
   end
 
-  def lassie(lassie)
+  def lassie=(lassie)
     @lassie = lassie
   end
 
